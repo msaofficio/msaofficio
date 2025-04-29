@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there, I'm <a>Shahnawaz</a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there, I'm <a><i>Shahnawaz<i></a></h1>
 
 <div style="display: flex; align-items: center; justify-content: center;">
   
@@ -77,24 +77,12 @@
   <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
-  <!-- <a href="https://www.youtube.com/channel/UCSQi8AQvLj53dRnEDAlhPsQ" target="_blank">
-    <img alt="Qwiklab" src="https://img.shields.io/badge/Youtube-dc143c.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black">
-  </a> -->
-
-  <!--<a href="https://bento.me/yashig406" target="_blank">
-    <img alt="Qwiklab" src="https://img.shields.io/badge/Bento-F5CD0E.svg?style=for-the-badge&logo=bentos&logoColor=black">
-  </a> -->
-
-  <!-- <a href="https://www.cloudskillsboost.google/public_profiles/e5cec970-0cc5-4375-b358-514f45b8061c" target="_blank">
-    <img alt="Qwiklab" src="https://img.shields.io/badge/Qwiklabs-F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black">
-  </a> -->
-
    <a href="https://twitter.com/msaofficio" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-twitter-008080?style=for-the-badge&logo=Twitter&logoColor=white">
+    <img alt="Twitter " src="https://img.shields.io/badge/-twitter-008080?style=for-the-badge&logo=Twitter&logoColor=white">
   </a> 
 
-  <a href="buymeacoffee.com/sheebssop" target="_blank">
-    <img alt="Gift ☕︎" src="https://img.shields.io/badge/%20SUPPORT%20-E3C08D">
+  <a href="https://buymeacoffee.com/sheebssop" target="_blank">
+    <img alt="Gift ☕︎" src="https://img.shields.io/badge/%20Support%20-E3C08D?style=for-the-badge&logo=BuyMeACoffee&logoColor=beige">
   </a>
 </div>
 
