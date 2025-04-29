@@ -33,12 +33,8 @@
 
 <h3>📝 Coding Profiles:</h3>
 <p align="left">
-
 <a href="https://leetcode.com/msaofficio/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="msaofficio" /></a>
-
 <a href="https://www.hackerrank.com/profile/sheebssop" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sheebssop"/></a>
-
-
 </p>
 
 
