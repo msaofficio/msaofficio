@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there, I'm <a><i>Shahnawaz<i></a></h1>
+<h1 align="center">Greetings <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there,  I'm <a><i> Shahnawaz<i></a></h1>
 
 <div style="display: flex; align-items: center; justify-content: center;">
   
@@ -29,6 +29,18 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+
+
+<h3>📝 Coding Profiles:</h3>
+<p align="left">
+
+<a href="https://leetcode.com/msaofficio/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="msaofficio" /></a>
+
+<a href="https://www.hackerrank.com/profile/sheebssop" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sheebssop"/></a>
+
+
+</p>
+
 
 <h3>🚀 Frameworks & Technologies:</h3>
 <p>
