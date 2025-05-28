@@ -9,7 +9,7 @@
      <li>👀 <strong>Interests:</strong> AI & ML Enthusiast, MERN Stack, and cloud technologies like Google Cloud.</li>
 <li>🌱 <strong>Learning:</strong> Enhancing skills in Full Stack Development, optimisation and problem solving.</li>
 <li>💼 <strong>Skills:</strong> Experienced in frontend/backend dev, and team collaboration.</li>
-<li>📫 <strong>Contact Me:</strong> Feel free to reach out at <a href="mailto:sheebssop@gmail.com">sheebssop@gmail.com</a>.</li>
+<li>📫 <strong>Contact Me:</strong> Feel free to reach out at <a href="mailto:msaofficio@gmail.com">msaofficio@gmail.com</a></li>
     </ul>
   </div>
 
