@@ -81,7 +81,7 @@
   <img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
-<a href="mailto:sheebssop@gmail.com" target="_blank">
+<a href="mailto:msaofficio@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
