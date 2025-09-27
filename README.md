@@ -7,7 +7,7 @@
   <div style="flex: 2; padding-left: 20px;">
     <ul>
      <li>👀 <strong>Interests:</strong> JAVA + Springboot, MERN Stack, AI & ML Enthusiast.</li>
-<li>🌱 <strong>Learning:</strong> Upskilling in Full Stack Development, optimisation and problem solving.</li>
+<li>🌱 <strong>Learning:</strong> Upskilling in Full Stack Development, optimisation and data structures and algorithms.</li>
 <li>💼 <strong>Skills:</strong> Experienced in critical thinking over ideas and projects, problem solving and team collaboration.</li>
 <li>📫 <strong>Contact Me:</strong> Feel free to reach out at <a href="mailto:sheebssop@gmail.com">sheebssop@gmail.com</a></li>
     </ul>
